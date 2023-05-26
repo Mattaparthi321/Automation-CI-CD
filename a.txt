@@ -1,5 +1,5 @@
 VPC capgemini-vpc-01
 
 cap-subnet01		10.1.0.0/24 Enable auto-assign public IPv4 addressInfo
-cap-subnet02  10.1.1.0/24 Enable auto-assign public IPv4 addressInfo
+cap-subnet02            10.1.1.0/24 Enable auto-assign public IPv4 addressInfo
 cap-subnet02		10.1.2.0/24 No 
